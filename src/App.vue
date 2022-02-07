@@ -1,15 +1,15 @@
 <template>
   <div>
-    <title />
+    <Header />
   </div>
 </template>
 
 <script>
-import title from "@components/title.vue";
+import Header from "@/components/Header.vue";
 export default {
   name: "App",
   components: {
-    title,
+    Header,
   },
 };
 </script>
