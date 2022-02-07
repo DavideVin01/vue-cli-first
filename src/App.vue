@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="app">
     <Header />
     <Hero />
   </div>
@@ -18,4 +18,8 @@ export default {
 </script>
 
 <style>
+#app {
+  font-family: sans-serif;
+  text-align: center;
+}
 </style>
