@@ -11,4 +11,7 @@ export default {
 </script>
 
 <style>
+header {
+  background-color: #43b885;
+}
 </style>

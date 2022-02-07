@@ -28,6 +28,10 @@ export default {
   font-family: sans-serif;
   text-align: center;
   margin: 0 auto;
+  background-image: url("assets/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
 }
 
 .scale-up-center {
