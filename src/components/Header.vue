@@ -1,6 +1,6 @@
 <template>
-  <header>
-    <h1>La mia prima app con Vue CLI!</h1>
+  <header class="shadow">
+    <h1 class="scale-up-center">La mia prima app con Vue CLI!</h1>
   </header>
 </template>
 
