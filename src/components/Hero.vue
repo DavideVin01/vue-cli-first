@@ -18,7 +18,7 @@ export default {
 <style>
 #jumbotron {
   margin-top: 10px;
-  max-width: 100%;
+  width: 1000px;
   animation: scale-up-center 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) both;
 }
 </style>
